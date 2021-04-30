@@ -1,6 +1,10 @@
-# Talk on Programming Fun
+# Talk on AI-ML
 
-Newly admitted students of computer science often don't get fun in programming and gets scared of it. This is a session to make them interested in programming by introducing them with fun stuffs that can be done with programming. 
+[This talk](https://www.facebook.com/events/1602891803243796) was for interested students who wants have a brief idea about the study on AI and ML. Organized by IEEE Student Branch of University of Asia Pacific. This talk was similar to [deep-learning-primar-talk](https://github.com/mehedi-shafi/deep-learning-primer-talk) which happened later than this.
+
+
+### Acknowledgement
+Thank you IEE Student Branch, UAP for organizing the session.
 
 
 ## Presentation
